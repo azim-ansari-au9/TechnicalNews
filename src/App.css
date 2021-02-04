@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+
+.news {
+  background-color: #282c34;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: yellow;
+  margin: 0px;
+  padding: 20px;
+  background-color: #0c0b0bfa;
+  color: yellow;
+    
+  
+}
+ 
